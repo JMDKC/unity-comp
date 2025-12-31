@@ -84,10 +84,12 @@ p {
 /* Footer */
 footer {
   margin-top: 3rem;
-  padding-bottom: 3rem;
+  padding: 2rem 1rem 3rem;
+  background: #f3f4f6; /* subtle light grey */
   font-size: 0.85rem;
-  color: #666;
+  color: #4b5563;
 }
+
 
 /* Footer navigation */
 .footer-nav {
@@ -96,7 +98,7 @@ footer {
 }
 
 .footer-nav a {
-  color: #111;
+  color: #374151;
   text-decoration: none;
 }
 
